@@ -28,7 +28,7 @@ print(B)
 ```
 
 ## Output:
-![](./rank%20of%20a%20matrix.png)
+![](./Screenshot%202023-01-14%20212344.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
